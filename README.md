@@ -1,4 +1,4 @@
-Samurai-Fight
+# Samurai-Fight
 Welcome to Samurai-Fight, a fast-paced game of sword fighting between two skilled samurai. In this game, you will take control of one of the samurai and battle it out with the other to see who comes out on top. The first samurai to die or reach the 60 second time limit will be declared the loser, so be sure to bring your A-game!
 
 How to Play
