@@ -11,3 +11,5 @@ This game was built using HTML5 canvas and JavaScript. The canvas is used to ren
 
 Credits
 Samurai Showdown was developed by Raunak Sarmacharya.
+
+You can play the game here : https://samurai-fight-raunaksarmacharaya.netlify.app/
